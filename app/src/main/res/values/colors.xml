@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cc99ff</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#54af54</color>
+
+
+    <color name="tble_header">#b3cce6</color>
+    <color name="main_bgr">#f5efe4</color>
+
+    <color name="zadnjaMj">#bdc3c7</color>
+    <color name="plodno">#54af54</color>
+    <color name="jakoPlodno">#e67e22</color>
+    <color name="najPlodnije">#e74c3c</color>
+    <color name="test">#3498db</color>
+    <color name="sljMj">#9b59b6</color>
+    <color name="kasni">#9d795b </color>
+
+    <color name="text_legenda">#ffffff</color>
+
+</resources>

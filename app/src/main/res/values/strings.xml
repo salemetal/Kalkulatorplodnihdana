@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kalkulator plodnih dana</string>
+    <string name="daysPrompt">28</string>
+</resources>
